@@ -6,7 +6,7 @@
     <img src="jpg/Car.jpg" alt="Car" style="width:450px;height:200px; margin-left: 10px;">
 </div>
 
-Ana Özellikler:<br>
+Ana Özellikler:<br><br>
 Araç Detayları: Her araçla ilgili özel bilgileri içerir, marka, model, trim ve imalat yılı gibi.
 
 İşlem Bilgileri: Satış işlemlerine dair içgörüler sağlar, satış fiyatları ve satış tarihlerini içerir.
